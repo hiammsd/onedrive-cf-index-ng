@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/Documents/1. V-International', '/Pictures/Saved Pictures'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:maisydong97@gmail.com',
+  email: 'mailto:contact@vinternational.vn',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
