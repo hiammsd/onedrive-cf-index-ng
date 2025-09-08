@@ -41,9 +41,6 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: [
   '/Share/1. V-International',
-  '/Share/Leguage',
-  '/Share/Take it easy my friend',
-
 ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
